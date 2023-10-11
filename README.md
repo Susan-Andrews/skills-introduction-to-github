@@ -252,6 +252,15 @@ _Congratulations, you've completed this course and joined the world of developer
 
 <img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
 
+# Open Source Contribution
+If you're interested in open source:
+
+Find Projects: Explore GitHub Explore to find open source projects. Look for issues labeled as 'beginner-friendly' to make your first contributions.
+
+Contribution Guidelines: Understand the contribution guidelines of the projects you're interested in. Every project might have different rules about how to contribute.
+
+Documentation: Contribute to documentation. Clear, concise documentation is crucial for any open-source project.
+
 Here's a recap of your accomplishments:
 
 - You learned about GitHub, repositories, branches, commits, and pull requests.
